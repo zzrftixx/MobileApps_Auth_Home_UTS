@@ -1,16 +1,18 @@
-# mobileapps_uts
 
-A new Flutter project.
+---
 
-## Getting Started
+# Flutter App
 
-This project is a starting point for a Flutter application.
+### Ujian Tengah Semester (UTS)  
+**Nama**  : Muh Andra Ariesfi
+**Kelas** : 2D TRPL  
+**NIM**   : 362358302103
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Aplikasi Login Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| LOGIN  | REGISTER | HOMPAGE |
+|------------|------------|------------|
+| ![Screenshot 1](assets/images/Screenshot%202024-10-25%20082454.png) | ![Screenshot 2](assets/images/Screenshot%202024-10-25%20082504.png) | ![Screenshot 3](assets/images/Screenshot%202024-10-25%20082515.png) |
+
